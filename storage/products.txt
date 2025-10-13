@@ -1,0 +1,1 @@
+{"id":1,"name":"teste","price":10.5}
