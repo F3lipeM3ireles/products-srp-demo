@@ -4,14 +4,6 @@ declare(strict_types=1);
 
 require __DIR__ . '/../vendor/autoload.php';
 
-// use App\Infra\FileProductRepository;
-// use App\Domain\SimpleProductValidator;
-// use App\Application\ProductService;
-
-// $repository = new FileProductRepository(__DIR__ . '/../storage/products.txt');
-// $validator = new SimpleProductValidator();
-// $service = new ProductService($repository, $validator);
-
 ?>
 
 <!DOCTYPE html>
